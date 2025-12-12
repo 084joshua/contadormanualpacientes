@@ -28,7 +28,7 @@ function App() {
         </button>
       </div>
       <p className="read-the-docs">
-        © LopesClinic. Todos os direitos reservados.
+        © LopesClinic. Todos os direitos reservados
 .      </p>
     </>
   )
